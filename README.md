@@ -1,5 +1,5 @@
 # DeepLearning.AI Specialization Course
-This repository contains learning materials from some specialization course of DeepLearning.AI   
+This repository contains learning materials from some DeepLearning.AI specialization course    
 
 DeepLearning.AI is an education technology company that is empowering the global workforce to build an AI-powered future through world-class education, hands-on training, and a collaborative community.
 
